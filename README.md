@@ -8,7 +8,15 @@ the previous list and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-_No list has been generated yet._
+## Latest list — 2026-11-28 21:19 UTC
+
+New apps added between 2026-11-28 20:20 UTC and 2026-11-28 21:19 UTC.
+
+[Full CSV](data/new-apps-2026-11-28T21-19-02-303124Z.csv)
+
+| Added (UTC) | App | Developer | Installs (30d) | Summary |
+| :---------- | :-- | :-------- | -------------: | :------ |
+| 2026-11-28 21:03:32 | [com.timopartl.workinghours](https://flathub.org/apps/com.timopartl.workinghours) | T. Partl |  | Track time and manage timesheets |
 
 ## Data source
 
